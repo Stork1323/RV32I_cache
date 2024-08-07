@@ -1,0 +1,9 @@
+File cache_controller.sv
+    line 19 -> 23
+    line 37 -> 102
+File cache.sv:
+    line 20 -> 24
+    line 140 -> 144
+File pipelined.sv:
+    line 22 -> line 26
+    line 472 -> line 476
